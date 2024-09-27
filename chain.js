@@ -44,5 +44,6 @@ const user2 = {
 	}
 };
 
+
 console.log(user.address.street?.second);
 console.log(user2.address.street?.second);
